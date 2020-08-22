@@ -1,0 +1,31 @@
+.card__container {
+	display: flex;
+	justify-content: center;
+	margin: 2% 0;
+}
+
+.card__item {
+	margin: 2% 2% !important;
+}
+
+.infected {
+	border-bottom: 10px solid rgba(255, 152, 0, 0.5) !important;
+}
+
+.infected__text {
+	color: #ff9800;
+}
+.recovered {
+	border-bottom: 10px solid rgba(10, 182, 134, 0.5) !important;
+}
+
+.recovered__text {
+	color: #0ab686;
+}
+.deaths {
+	border-bottom: 10px solid rgba(236, 49, 75, 0.5) !important;
+}
+
+.deaths__text {
+	color: #ec314b;
+}
