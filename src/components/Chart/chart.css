@@ -1,0 +1,9 @@
+.chart__container {
+	display: flex;
+	justify-content: center;
+}
+
+.chart__item {
+	margin: 1% 2% !important;
+	padding: 1vh;
+}
